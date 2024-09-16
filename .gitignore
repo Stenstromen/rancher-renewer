@@ -1,0 +1,12 @@
+*.exe
+*.exe~
+*.out
+*.dll
+*.so
+*.dylib
+*.test
+.envrc
+.vscode
+go.work
+go.work.sum
+rancher-renewer
